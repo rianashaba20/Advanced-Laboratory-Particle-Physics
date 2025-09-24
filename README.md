@@ -8,5 +8,5 @@ This lab course is a complete study of silicon strip sensors used in the innermo
 - [Lab Report](Characterisation-of-Silicon-Strip-Sensors/Lab_Report/Characterisation_of_silicon_strip_sensors.pdf)
 
 ## Analysis of ATLAS data
-This lab course is a full high energy physics data analysis on the search for new heavy particles predicted by theories beyond the standard model, looking for heavy resonances decaying into two top quarks.
+This lab course is a full high energy physics data analysis using ATLAS data, focused on the search for new heavy particles predicted by theories beyond the standard model when looking for heavy resonances decaying into two top quarks.
 - [Lab Report](Analysis-of-ATLAS-data/Lab_Report/ATLAS_report.pdf)

@@ -23,8 +23,8 @@ This lab course focuses on common techniques used in high energy physics to sepa
 
 ## Analysis of CP Violation with LHCb data 
 This lab course studies and measures the fundamental differences between matter and antimatter, also known as CP violation, in electroweak interactions.
-- [Data Analysis Notebook](CP-Violation-for-the-LHCb-experiment/Notebook/CPVlabcourse.ipynb)
-- [Lab Report](CP-Violation-for-the-LHCb-experiment/Lab_Report/CPV_report.pdf)
+- [Data Analysis Notebook](CP-Violation-with-LHCb-data/Notebook/CPV_notebook.ipynb)
+- [Lab Report](CP-Violation-with-LHCb-data/Lab_report/CPV_report.pdf)
 
 
 
